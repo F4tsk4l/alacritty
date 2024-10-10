@@ -1,4 +1,4 @@
 ## Alacritty
 Themes *[github](https://github.com/alacritty/alacritty-theme)*.  
-## Theme
+## Themes
     git clone https://github.com/alacritty/alacritty-theme ~/.config/alacritty/themes
